@@ -1,3 +1,4 @@
+# File: buildspec.yml (place in root)
 version: 0.2
 
 phases:
